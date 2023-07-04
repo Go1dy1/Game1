@@ -49,9 +49,6 @@ ScriptsOnlyBuild:
     - UnityEditor.TestTools.TestRunner.Api.CallbacksHolder
     - UnityEditor.TestTools.TestRunner.TestListCacheData
     - UnityEditor.TestTools.TestRunner.TestRun.TestJobDataHolder
-    UnityEngine.Advertisements.dll:
-    - UnityEngine.Advertisements.Placeholder
-    - UnityEngine.Advertisements.Platform.Editor.BannerPlaceholder
     UnityEngine.UI.dll:
     - UnityEngine.EventSystems.EventSystem
     - UnityEngine.EventSystems.StandaloneInputModule
@@ -328,23 +325,23 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 6670}
     - Class: 114
-      Script: {instanceID: 7154}
+      Script: {instanceID: 7152}
     - Class: 114
-      Script: {instanceID: 7348}
+      Script: {instanceID: 7346}
     - Class: 114
-      Script: {instanceID: 7748}
+      Script: {instanceID: 7746}
     - Class: 114
-      Script: {instanceID: 8352}
+      Script: {instanceID: 8350}
     - Class: 114
-      Script: {instanceID: 8462}
+      Script: {instanceID: 8460}
     - Class: 114
-      Script: {instanceID: 8686}
+      Script: {instanceID: 8684}
     - Class: 114
-      Script: {instanceID: 8710}
+      Script: {instanceID: 8708}
     - Class: 114
-      Script: {instanceID: 10026}
+      Script: {instanceID: 10024}
     - Class: 114
-      Script: {instanceID: 10236}
+      Script: {instanceID: 10234}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -533,67 +530,67 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 6606}
     - Class: 114
-      Script: {instanceID: 6928}
+      Script: {instanceID: 6926}
     - Class: 114
-      Script: {instanceID: 7018}
+      Script: {instanceID: 7016}
     - Class: 114
-      Script: {instanceID: 7048}
+      Script: {instanceID: 7046}
     - Class: 114
-      Script: {instanceID: 7154}
+      Script: {instanceID: 7152}
     - Class: 114
-      Script: {instanceID: 7348}
+      Script: {instanceID: 7346}
     - Class: 114
-      Script: {instanceID: 7404}
+      Script: {instanceID: 7402}
     - Class: 114
-      Script: {instanceID: 7416}
+      Script: {instanceID: 7414}
     - Class: 114
-      Script: {instanceID: 7462}
+      Script: {instanceID: 7460}
     - Class: 114
-      Script: {instanceID: 7690}
+      Script: {instanceID: 7688}
     - Class: 114
-      Script: {instanceID: 7854}
+      Script: {instanceID: 7852}
     - Class: 114
-      Script: {instanceID: 7880}
+      Script: {instanceID: 7878}
     - Class: 114
-      Script: {instanceID: 7906}
+      Script: {instanceID: 7904}
     - Class: 114
-      Script: {instanceID: 7942}
+      Script: {instanceID: 7940}
     - Class: 114
-      Script: {instanceID: 8288}
+      Script: {instanceID: 8286}
     - Class: 114
-      Script: {instanceID: 8456}
+      Script: {instanceID: 8454}
     - Class: 114
-      Script: {instanceID: 8526}
+      Script: {instanceID: 8524}
     - Class: 114
-      Script: {instanceID: 8622}
+      Script: {instanceID: 8620}
     - Class: 114
-      Script: {instanceID: 8748}
+      Script: {instanceID: 8746}
     - Class: 114
-      Script: {instanceID: 8768}
+      Script: {instanceID: 8766}
     - Class: 114
-      Script: {instanceID: 9128}
+      Script: {instanceID: 9126}
     - Class: 114
-      Script: {instanceID: 9348}
+      Script: {instanceID: 9346}
     - Class: 114
-      Script: {instanceID: 9382}
+      Script: {instanceID: 9380}
     - Class: 114
-      Script: {instanceID: 9484}
+      Script: {instanceID: 9482}
     - Class: 114
-      Script: {instanceID: 9568}
+      Script: {instanceID: 9566}
     - Class: 114
-      Script: {instanceID: 9698}
+      Script: {instanceID: 9696}
     - Class: 114
-      Script: {instanceID: 9756}
+      Script: {instanceID: 9754}
     - Class: 114
-      Script: {instanceID: 9768}
+      Script: {instanceID: 9766}
     - Class: 114
-      Script: {instanceID: 9854}
+      Script: {instanceID: 9852}
     - Class: 114
-      Script: {instanceID: 9890}
+      Script: {instanceID: 9888}
     - Class: 114
-      Script: {instanceID: 10026}
+      Script: {instanceID: 10024}
     - Class: 114
-      Script: {instanceID: 34490}
+      Script: {instanceID: 29008}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 124
@@ -2503,4 +2500,4 @@ ScriptsOnlyBuild:
   scenePathNames:
   - Assets/Scenes/MENU.unity
   - Assets/Scenes/MAIN.unity
-  playerPath: C:/Users/artni/Desktop/Rock/PaperRockAndScissor.exe
+  playerPath: C:/Users/artni/Desktop/RockPaper&Scissors/PaperRockAndScissor.exe
